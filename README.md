@@ -16,7 +16,7 @@ A simple snack for 5 root finding methods
 
 1. Choose a method.
 2. Enter the inputs
-     * Equation example 4x^2-x-1 is ```(4*x**2) - x - 1```(Variable should be separated by the constant by *, for exponent "**" and just put parenthesis for easy read.
+     * Equation example x^2-x-1 is ```(x**2)-x-1```(Variable should be separated by the constant by *, for exponent "**" and just put parenthesis for easy read.
      * Ea or Error is greater than 0 but less than 1
      * Iteration must be an positive integer (of course).
      * Initial guess for x, a and b are integer or float.
