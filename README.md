@@ -25,7 +25,7 @@ A simple snack for 5 root finding methods
 3. Click Solve
 4. * If it found a root, it displays a message and the iteration will stop. So if you input 10 iterations but it finds its roots at 7 then it stop. But if it still continue, ehem... That's a feature.
    *If it didn't found a root, an error will be displayed.
-
+      *If you click Solve but nothing happens in Bisection, False Point and Secant. It means that f(a)*(fb) > 0 so choose another a and b.
 ## Reference of this project.
 [Codesansar](https://www.codesansar.com/numerical-methods)
 
